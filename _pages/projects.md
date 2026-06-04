@@ -81,7 +81,7 @@ nav_order: 4
     <img src="{{ '/assets/img/devops1.jpg' | relative_url }}" alt="Real-Time Ticketing System" style="width: 100%; height: 160px; object-fit: cover;">
     <div style="padding: 0.9rem 1rem 1rem;">
       <div style="margin-bottom: 0.4rem;">
-        <code><span style="color:#94a3b8;">●</span> 2nd Runner-Up</code><br><code>BUET CSE Fest 2024</code><br><code>Microservices & DevOps</code>
+        <code><span style="color:#8B4513;">●</span> 2nd Runner-Up</code><br><code>BUET CSE Fest 2024</code><br><code>Microservices & DevOps</code>
       </div>
       <h4 style="margin: 0.5rem 0 0.3rem; font-size: 0.95rem; font-weight: 700;">Real-Time Ticketing on Kubernetes</h4>
       <p class="az-proj-desc" style="margin: 0 0 0.7rem; font-size: 0.85rem; line-height: 1.5;">Production-grade <strong>cloud-native</strong> ticketing system on <strong>Azure Kubernetes Service</strong>. Features zero-downtime rolling deployments, <strong>Redis</strong> caching, automated <strong>CI/CD</strong> via GitHub Actions, and full observability with <strong>Prometheus</strong> and Grafana.</p>
