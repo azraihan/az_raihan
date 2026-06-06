@@ -53,7 +53,7 @@ Every architectural choice — which retrieval paradigm to commit to, how aggres
 - **Used:** 20 VMs · 2 vCPU · 2 GB RAM · **CPU only** — no GPU anywhere in the pipeline
 - Average response latency: **~500ms**
 
-Find code [here](https://github.com/azraihan/poridhi-2.0).
+[Presentation]({{ '/assets/pdf/search_presentation.pdf' | relative_url }}){:target="_blank"} · [Code](https://github.com/azraihan/poridhi-2.0)
 
 ---
 

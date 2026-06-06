@@ -46,7 +46,7 @@ Find more [here](https://2025.ieeeicip.org/wp-content/uploads/sites/679/2025-VIP
 
 ***More details below.***
 
-[Presentation]({{ '/assets/pdf/Team_NeuronX_VIP_Cup_2025.pdf' | relative_url }}){:target="_blank"} · [Paper]() · [Code]()
+[Presentation]({{ '/assets/pdf/Team_NeuronX_VIP_Cup_2025.pdf' | relative_url }}){:target="_blank"} · [Code]() · [Paper]()
 
 
 ---

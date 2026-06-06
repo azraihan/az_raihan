@@ -44,8 +44,8 @@ We built a **`multilingual NLP pipeline`** around **Whisper Medium** — a **`mu
 
 Key decisions driven by the low-resource constraints:
 
-- **Weighted random sampling** — rare dialects received up to 20× higher sampling weight per epoch, keeping the model from collapsing to dominant varieties
-- **`LLM-in-the-loop data synthesis`** — used Gemini 2.5 Flash to generate ~290 additional training samples for the most data-scarce dialects via dialectal text → standard Bangla translation, an **`NLP-driven data augmentation`** strategy
+- **Weighted random sampling** — rare dialects received higher sampling weight per epoch, keeping the model from collapsing to dominant varieties
+- **`LLM-in-the-loop data synthesis`** — used Gemini 2.5 Flash to generate additional training samples for the most data-scarce dialects via dialectal text → standard Bangla translation, an **`NLP-driven data augmentation`** strategy
 - **Acoustic augmentation pipeline** — time stretching, pitch shifting, noise injection, and volume adjustment during training; spectral denoising and silence padding at inference
 
 [Presentation](https://github.com/azraihan/Team-DejaView---CUET-ETE-Televerse-AIFication-2025-Datathon-Solution/blob/main/presentation/ai_fication_presentation.pdf) · [Code](https://github.com/azraihan/Team-DejaView---CUET-ETE-Televerse-AIFication-2025-Datathon-Solution)
@@ -65,4 +65,5 @@ Key decisions driven by the low-resource constraints:
 ---
 
 ## Outcome
-**1st Runner-up** among 80+ teams and 300+ participants.
+
+**1st Runner-Up** among 90+ teams, 300+ participants.
