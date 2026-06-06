@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Real-Time Ticketing System on Kubernetes
-description: "2nd Runner-Up · BUET CSE Fest Hackathon 2024 · Microservices & DevOps"
+# description: "2nd Runner-Up · BUET CSE Fest Hackathon 2024 · Microservices & DevOps"
 img: assets/img/devops1.jpg
 importance: 5
 category: engineering
@@ -9,9 +9,11 @@ related_publications: false
 ---
 
 <div style="margin-bottom: 1.5rem;">
-  <span style="background:#8e44ad;color:#fff;padding:3px 10px;border-radius:4px;font-size:0.82rem;font-weight:600;">🥉 2nd Runner-Up</span>
+  <code><span style="color:#cd7f32;">●</span> 2nd Runner-Up</code>
   &nbsp;
-  <span style="background:#555;color:#fff;padding:3px 10px;border-radius:4px;font-size:0.82rem;font-weight:600;">BUET CSE Fest Hackathon 2024 · Microservices & DevOps</span>
+  <code>BUET CSE Fest Hackathon 2024</code>
+  &nbsp;
+  <code>Microservices & DevOps</code>
 </div>
 
 ## Overview
@@ -36,6 +38,8 @@ The system was designed to handle high concurrent load with zero-downtime deploy
 
 **Rate limiting and OTP verification** — API security with rate limiting middleware and OTP-based booking confirmation.
 
+Find code [here](https://github.com/azraihan/bcf2024-microservice-devops-team-95152-buet21).
+
 ---
 
 <div class="row">
@@ -50,6 +54,5 @@ The system was designed to handle high concurrent load with zero-downtime deploy
 
 ---
 
-**Stack:** Node.js · Express.js · Redis · Docker · Kubernetes · Azure (AKS) · Terraform · GitHub Actions · Prometheus · Grafana · k6
-
-**GitHub:** [github.com/azraihan/bcf2024-microservice-devops-team-95152-buet21](https://github.com/azraihan/bcf2024-microservice-devops-team-95152-buet21)
+## Outcome
+**1st Runner up** among 20+ teams accross 10+ universities

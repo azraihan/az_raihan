@@ -61,9 +61,18 @@ nav_order: 4
 
 </div>
 
-## Engineering Scalable Systems
+<details>
+<summary style="cursor:pointer; font-size:1.5rem; font-weight:700; margin-bottom:1rem; list-style:none; display:flex; align-items:center; gap:0.5rem;">
+  <span class="az-details-arrow" style="font-size:1rem; transition:transform 0.2s;">▶</span> Engineering Scalable Systems <span style="font-size:0.75rem; font-weight:400; opacity:0.5; margin-left:0.4rem;">click to expand</span>
+</summary>
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.2rem; margin-bottom: 2rem;">
+<script>
+  document.currentScript.closest('details').addEventListener('toggle', function(e) {
+    this.querySelector('.az-details-arrow').style.transform = this.open ? 'rotate(90deg)' : '';
+  });
+</script>
+
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.2rem; margin-bottom: 2rem; margin-top: 1rem;">
 
   <div class="az-proj-card">
     <img src="{{ '/assets/img/codesprout1.jpg' | relative_url }}" alt="CodeSprout" style="width: 100%; height: 160px; object-fit: cover;">
@@ -72,7 +81,7 @@ nav_order: 4
         <code><span style="color:#22c55e;">●</span> Top 10 Finalist</code><br><code>AI Hackathon</code>
       </div>
       <h4 style="margin: 0.5rem 0 0.3rem; font-size: 0.95rem; font-weight: 700;">Therap JavaFest 2024</h4>
-      <p class="az-proj-desc" style="margin: 0 0 0.7rem; font-size: 0.85rem; line-height: 1.5;">AI-powered <strong>gamified coding education</strong> platform <strong>CodeSprout</strong>  for children. Top 10 among <strong>1300+ participants</strong>. Combines a <strong>block-based</strong> programming interface, an ML-driven chatbot for adaptive content, and <strong>computer vision</strong> sketch-to-image generation. Built on Java/Spring Boot microservices with a React frontend.</p>
+      <p class="az-proj-desc" style="margin: 0 0 0.7rem; font-size: 0.85rem; line-height: 1.5;"><strong>RAG</strong>-powered <strong>NLP</strong> chatbot, <strong>semantic retrieval</strong>-based project recommender, and <strong>computer vision</strong> sketch-to-image pipeline — packaged as a gamified coding platform for children. Top 10 among <strong>1300+ participants</strong>.</p>
       <a href="{{ '/projects/codesprout/' | relative_url }}" style="font-size: 0.85rem; font-weight: 600;">Read More →</a>
     </div>
   </div>
@@ -83,10 +92,12 @@ nav_order: 4
       <div style="margin-bottom: 0.4rem;">
         <code><span style="color:#8B4513;">●</span> 2nd Runner-Up</code><br><code>BUET CSE Fest 2024</code><br><code>Microservices & DevOps</code>
       </div>
-      <h4 style="margin: 0.5rem 0 0.3rem; font-size: 0.95rem; font-weight: 700;">Real-Time Ticketing on Kubernetes</h4>
+      <h4 style="margin: 0.5rem 0 0.3rem; font-size: 0.95rem; font-weight: 700;">Scalable Real-Time Ticketing on</h4>
       <p class="az-proj-desc" style="margin: 0 0 0.7rem; font-size: 0.85rem; line-height: 1.5;">Production-grade <strong>cloud-native</strong> ticketing system on <strong>Azure Kubernetes Service</strong>. Features zero-downtime rolling deployments, <strong>Redis</strong> caching, automated <strong>CI/CD</strong> via GitHub Actions, and full observability with <strong>Prometheus</strong> and Grafana.</p>
       <a href="{{ '/projects/devops_ticketing/' | relative_url }}" style="font-size: 0.85rem; font-weight: 600;">Read More →</a>
     </div>
   </div>
 
 </div>
+
+</details>

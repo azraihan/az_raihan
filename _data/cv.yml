@@ -38,29 +38,6 @@ cv:
         start_date: "2016"
         end_date: "2019"
 
-    Experience:
-      - company: SysModeler.ai
-        position: Research Assistant (Remote)
-        location: "Canton, Michigan,<br>United States"
-        url: https://www.linkedin.com/company/sysmodeler/
-        start_date: "2025-11"
-        end_date: "2026-02"
-        highlights:
-          - "Designed and implemented layout algorithms for generating structured, readable SysML diagrams"
-          - "Developed a pipeline to convert images into semantically accurate SysML representations"
-
-      - company: Syslabo Corp
-        position: Software Engineering Intern (Remote)
-        location: Tokyo, Japan
-        url: https://www.syslabo.com/
-        start_date: "2024-07"
-        end_date: "2024-09"
-        highlights:
-          - "Built a full-stack MERN application automating organizational hierarchy chart management, replacing a manual Excel-based system"
-          - "Developed dynamic UI/UX with Japanese localization using MaterialUI and GoJS"
-          - "Designed scalable database schemas and RESTful APIs for hierarchical data management"
-          - "Received best architecture recognition among all interns; received full-time job offer"
-
     Publications:
       - title: >
           Causal Localization of the English Pivot in LLaVA: Mechanistic VLM Analysis
@@ -96,33 +73,28 @@ cv:
           <span class='az-under-review' style='background:#fde8d8;color:#f0a060;font-weight:600;padding:1px 7px;border-radius:4px;font-size:0.82em;'>Under Review</span>
           <br><small style='color:#888;'>arXiv preprint available soon.</small>"
 
-    Skills:
-      - category: Programming Languages
-        skills:
-          - Python
-          - C / C++
-          - Java
-          - TypeScript
-          - SQL
-          - Shell / Bash
+    Experience:
+      - company: SysModeler.ai
+        position: Research Assistant (Remote)
+        location: "Canton, Michigan,<br>United States"
+        url: https://www.linkedin.com/company/sysmodeler/
+        start_date: "2025-11"
+        end_date: "2026-02"
+        highlights:
+          - "Designed and implemented layout algorithms for generating structured, readable SysML diagrams"
+          - "Developed a pipeline to convert images into semantically accurate SysML representations"
 
-      - category: ML & Research
-        skills:
-          - PyTorch
-          - Mechanistic Interpretability (logit-lens, activation patching)
-          - Vision-Language Models (LLaVA, CLIP)
-          - Self-Supervised Learning
-          - NLP / Information Retrieval
-          - Generative AI / LLMs
-
-      - category: Systems & Engineering
-        skills:
-          - Docker / Kubernetes
-          - GitHub Actions (CI/CD)
-          - GCP / Azure / Terraform
-          - Prometheus / Grafana / k6
-          - FastAPI / Django / Spring Boot
-          - PostgreSQL / MongoDB / Redis
+      - company: Syslabo Corp
+        position: Software Engineering Intern (Remote)
+        location: Tokyo, Japan
+        url: https://www.syslabo.com/
+        start_date: "2024-07"
+        end_date: "2024-09"
+        highlights:
+          - "Built a full-stack MERN application automating organizational hierarchy chart management, replacing a manual Excel-based system"
+          - "Developed dynamic UI/UX with Japanese localization using MaterialUI and GoJS"
+          - "Designed scalable database schemas and RESTful APIs for hierarchical data management"
+          - "Received best architecture recognition among all interns; received full-time job offer"
 
     Awards:
       - title: "IEEE VIP Cup 2025 — Champions"
