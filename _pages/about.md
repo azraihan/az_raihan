@@ -29,8 +29,14 @@ latest_posts:
   limit: 3
 ---
 
-I'm a senior-year [Computer Science and Engineering](https://cse.buet.ac.bd/) student at [Bangladesh University of Engineering and Technology (BUET)](https://www.buet.ac.bd/), working at the intersection of **multimodal AI**, **natural language processing**, and **AI systems**.
+<style>
+  .profile { width: 33% !important; }
+</style>
+
+I'm a senior-year [Computer Science and Engineering](https://cse.buet.ac.bd/) student at [Bangladesh University of Engineering and Technology (BUET)](https://www.buet.ac.bd/), working at the intersection of **natural language processing**, **computer vision**, **multimodal AI**, and **AI systems**.
+
+I study: how do language and multimodal models internally represent and process information — and how can we leverage that understanding to build systems that retrieve, reason, and generalize more reliably and efficiently?
+
+To explore these questions, I probe model internals to locate where specific capabilities emerge, design retrieval and reasoning pipelines that operate efficiently under real-world constraints, and build multimodal systems that are robust to variation across languages, modalities, and viewpoints.
 
 I am open to PhD opportunities for Fall 2027.
-
-<!-- Most of my work starts with a question about *why* a model fails or behaves a certain way. My work on the English-pivot bottleneck in LLaVA and on where video encoders crystallize affordance signal are both probing studies — trying to locate specific mechanisms inside neural networks. The efficiency and reasoning work (AdaGate, SpatialCoT) follows from the same instinct: once you understand what a model is actually doing, you can make smarter decisions about when to invoke what, or how to elicit more reliable behavior from it. -->
