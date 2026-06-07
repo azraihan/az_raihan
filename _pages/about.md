@@ -30,7 +30,7 @@ latest_posts:
 ---
 
 <style>
-  .profile { width: 41% !important; }
+  .profile { float: right !important; width: 30% !important; margin-left: 1.5rem !important; }
 </style>
 
 I'm a senior-year [Computer Science and Engineering](https://cse.buet.ac.bd/) student at [Bangladesh University of Engineering and Technology (BUET)](https://www.buet.ac.bd/), working at the intersection of **natural language processing**, **computer vision**, **multimodal AI**, and **AI systems**.
