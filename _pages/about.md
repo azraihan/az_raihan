@@ -30,13 +30,13 @@ latest_posts:
 ---
 
 <style>
-  .profile { width: 33% !important; }
+  .profile { width: 41% !important; }
 </style>
 
 I'm a senior-year [Computer Science and Engineering](https://cse.buet.ac.bd/) student at [Bangladesh University of Engineering and Technology (BUET)](https://www.buet.ac.bd/), working at the intersection of **natural language processing**, **computer vision**, **multimodal AI**, and **AI systems**.
 
-I study: how do language and multimodal models internally represent and process information — and how can we leverage that understanding to build systems that retrieve, reason, and generalize more reliably and efficiently?
+My research asks: how do we build and optimize systems that compose retrieval and reasoning using language and multimodal models — and how can understanding what models internally represent help us do this more reliably and efficiently?
 
-To explore these questions, I probe model internals to locate where specific capabilities emerge, design retrieval and reasoning pipelines that operate efficiently under real-world constraints, and build multimodal systems that are robust to variation across languages, modalities, and viewpoints.
+To explore these questions, I build and optimize systems that compose retrieval and reasoning using language models under real-world constraints, probe model internals to locate where specific capabilities emerge, and develop multimodal architectures that are robust to variation across languages, modalities, and viewpoints.
 
 I am open to PhD opportunities for Fall 2027.
