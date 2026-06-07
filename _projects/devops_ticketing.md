@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Real-Time Ticketing System on Kubernetes
+title: Scalable Real-Time Ticketing System
 # description: "2nd Runner-Up · BUET CSE Fest Hackathon 2024 · Microservices & DevOps"
 img: assets/img/devops1.jpg
 importance: 5
@@ -38,7 +38,9 @@ The system was designed to handle high concurrent load with zero-downtime deploy
 
 **Rate limiting and OTP verification** — API security with rate limiting middleware and OTP-based booking confirmation.
 
-Find code [here](https://github.com/azraihan/bcf2024-microservice-devops-team-95152-buet21).
+<br/>
+
+<a href="https://github.com/azraihan/bcf2024-microservice-devops-team-95152-buet21" target="_blank"><i class="fab fa-github"></i> Code</a>.
 
 ---
 
@@ -51,6 +53,7 @@ Find code [here](https://github.com/azraihan/bcf2024-microservice-devops-team-95
   </div>
 </div>
 <div class="caption">BUET CSE Fest Hackathon 2024 — Microservices & DevOps Category (October 2024).</div>
+<a href="https://www.linkedin.com/posts/ruwad-naswan-612673245_hackathon-microservices-devops-activity-7262077014969364482-u8IX?utm_source=share&utm_medium=member_desktop" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
 
 ---
 

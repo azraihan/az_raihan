@@ -6,7 +6,7 @@ cv:
   location: Dhaka, Bangladesh
   image: ""
   summary: >
-    A senior-year Computer Science and Engineering student at [Bangladesh University of Engineering and Technology (BUET)](https://www.buet.ac.bd/), working at the intersection of **multimodal AI**, **natural language processing**, and **AI systems**.
+    A senior-year Computer Science and Engineering student at [Bangladesh University of Engineering and Technology (BUET)](https://www.buet.ac.bd/), working at the intersection of **natural language processing**, **computer vision**, **multimodal AI**, and **AI systems**.
 
   social_networks:
     - network: GitHub
@@ -18,13 +18,13 @@ cv:
     Education:
       - institution: Bangladesh University of Engineering and Technology (BUET)
         location: Dhaka, Bangladesh
-        url: https://www.buet.ac.bd/
+        # url: https://www.buet.ac.bd/
         area: Computer Science and Engineering (CSE)
-        studyType: Bachelor of Science (B.Sc.)
+        studyType: Bachelor of Engineering (B.Eng.)
         start_date: "2022"
-        end_date: "2026"
+        end_date: "—"
         highlights:
-          - "Research interests: NLP, Multimodal AI, AI Systems, Mechanistic Interpretability"
+          - "Research interests: NLP, Information Retrieval, Computer Vision, Multimodal AI, AI Systems, Machine Learning, Mechanistic Interpretability"
 
       - institution: Notre Dame College
         location: Dhaka, Bangladesh
@@ -81,8 +81,8 @@ cv:
         start_date: "2025-11"
         end_date: "2026-02"
         highlights:
-          - "Designed and implemented layout algorithms for generating structured, readable SysML diagrams"
-          - "Developed a pipeline to convert images into semantically accurate SysML representations"
+          - "Designed and implemented layout algorithms to generate structured, readable, and visually consistent SysML diagrams"
+          - "Developed a **retrieval-augmented** image-to-SysML pipeline — given an input image, the system **retrieves** structurally similar exemplars as anchors to guide generation of semantically accurate SysML representations; grounding **multimodal output** in **retrieved references** to enforce structural consistency"
 
       - company: Syslabo Corp
         position: Software Engineering Intern (Remote)
@@ -91,47 +91,37 @@ cv:
         start_date: "2024-07"
         end_date: "2024-09"
         highlights:
-          - "Built a full-stack MERN application automating organizational hierarchy chart management, replacing a manual Excel-based system"
-          - "Developed dynamic UI/UX with Japanese localization using MaterialUI and GoJS"
-          - "Designed scalable database schemas and RESTful APIs for hierarchical data management"
-          - "Received best architecture recognition among all interns; received full-time job offer"
+          - "Automated creation and tracking of organizational hierarchy charts, replacing a manual Excel-based system with a full-stack MERN application"
+          - "Designed scalable database schemas and RESTful APIs for efficient hierarchical data management"
+          - "Received best architecture design recognition among all interns; secured a full-time job offer"
 
     Awards:
       - title: "IEEE VIP Cup 2025 — Champions"
         date: "2025-07"
         awarder: "IEEE Signal Processing Society"
-        summary: >
-          1st place among 40+ international teams in multimodal RGB-IR fusion for real-time drone
-          detection, tracking, and payload classification. Presented at ICIP 2025, Anchorage, AK.
-          Team: NeuronX.
+        summary: "Multimodal AI and computer vision — cross-modal RGB-IR fusion for real-time UAV detection, tracking, and payload classification; end-to-end AI system presented at ICIP 2025, Anchorage, AK."
 
       - title: "Poridhi.io × Brain Station 23 AI Engineering Hackathon — Champions"
         date: "2025-04"
         awarder: "Poridhi.io & Brain Station 23"
-        summary: >
-          1st place among 86 teams (300+ participants). Built an intent-based multilingual product
-          search system with in-memory LLM inference via llama.cpp and 4-bit quantization —
-          no GPU, half the allocated hardware. Team: BUET XFACTOR.
+        summary: "NLP-driven information retrieval — intent decomposition and multilingual dense retrieval with in-memory LLM inference via llama's C++ runtime, CPU-only on constrained hardware."
 
       - title: "শব্দতরী — Where Dialects Flow into Bangla: 1st Runner-Up"
         date: "2025-11"
         awarder: "Department of ETE, CUET · Televerse 1.0"
-        summary: >
-          Developed a low-resource ASR system transcribing speech from 20 regional Bangladeshi
-          dialects into standard Bangla using transfer learning, encoder adaptation, and
-          dialect-aware embeddings. Team: DejaView.
+        summary: "Low-resource multilingual NLP — bridging acoustic and text modalities across 20 Bangladeshi dialects to standard Bangla via fine-tuned Whisper ensembles and LLM-augmented data synthesis."
 
       - title: "BUET CSE Fest Hackathon 2024 — 2nd Runner-Up"
         date: "2024-10"
         awarder: "BUET CSE Fest"
-        summary: "Microservices and DevOps category. Built a scalable real-time ticketing system on Azure Kubernetes Service."
+        summary: "Cloud-native systems engineering — microservices on Azure Kubernetes Service with Redis caching, automated CI/CD, and full Prometheus/Grafana observability."
 
       - title: "Therap JavaFest 2024 — Top 10 Finalist"
         date: "2024-09"
         awarder: "Therap (BD) Ltd."
-        summary: "Top 10 among 1300+ participants. Developed CodeSprout, an AI-powered gamified coding education platform for children."
+        summary: "RAG-powered conversational assistant, semantic retrieval-based project recommender, and computer vision sketch-to-image pipeline — gamified coding platform for children; top 10 among 1300+ participants."
 
       - title: "Code Samurai Hackathon 2024 — 10th Place"
         date: "2024-03"
         awarder: "BJIT Group"
-        summary: "Engineered a waste management system for DNCC; built a web app and React Native mobile app."
+        summary: "Engineered a waste management system for the Dhaka North City Corporation (DNCC) (as proposed by BJIT), solved algorithmic challenges, and built a web app and a React Native mobile app to implement the system."

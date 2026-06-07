@@ -53,7 +53,7 @@ Every architectural choice — which retrieval paradigm to commit to, how aggres
 - **Used:** 20 VMs · 2 vCPU · 2 GB RAM · **CPU only** — no GPU anywhere in the pipeline
 - Average response latency: **~500ms**
 
-[Presentation]({{ '/assets/pdf/search_presentation.pdf' | relative_url }}){:target="_blank"} · [Code](https://github.com/azraihan/poridhi-2.0)
+<a href="{{ '/assets/pdf/search_presentation.pdf' | relative_url }}" target="_blank"><i class="fas fa-file-pdf"></i> Presentation</a> · <a href="https://github.com/azraihan/poridhi-2.0" target="_blank"><i class="fab fa-github"></i> Code</a>
 
 ---
 
@@ -69,6 +69,7 @@ Every architectural choice — which retrieval paradigm to commit to, how aggres
   </div>
 </div>
 <div class="caption">Team BUET XFACTOR at the Poridhi.io × Brain Station 23 AI Engineering Hackathon.</div>
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7322252660634484737/" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
 
 ---
 

@@ -48,7 +48,7 @@ Key decisions driven by the low-resource constraints:
 - **`LLM-in-the-loop data synthesis`** — used Gemini 2.5 Flash to generate additional training samples for the most data-scarce dialects via dialectal text → standard Bangla translation, an **`NLP-driven data augmentation`** strategy
 - **Acoustic augmentation pipeline** — time stretching, pitch shifting, noise injection, and volume adjustment during training; spectral denoising and silence padding at inference
 
-[Presentation](https://github.com/azraihan/Team-DejaView---CUET-ETE-Televerse-AIFication-2025-Datathon-Solution/blob/main/presentation/ai_fication_presentation.pdf) · [Code](https://github.com/azraihan/Team-DejaView---CUET-ETE-Televerse-AIFication-2025-Datathon-Solution)
+<a href="https://github.com/azraihan/Team-DejaView---CUET-ETE-Televerse-AIFication-2025-Datathon-Solution/blob/main/presentation/ai_fication_presentation.pdf" target="_blank"><i class="fas fa-file-pdf"></i> Presentation</a> · <a href="https://github.com/azraihan/Team-DejaView---CUET-ETE-Televerse-AIFication-2025-Datathon-Solution" target="_blank"><i class="fab fa-github"></i> Code</a>
 
 ---
 
@@ -61,6 +61,7 @@ Key decisions driven by the low-resource constraints:
   </div>
 </div>
 <div class="caption">Team DejaView at শব্দতরী, CUET ETE Televerse 1.0.</div>
+<a href="https://www.linkedin.com/posts/ruwad-naswan-612673245_nlp-speechrecognition-asr-activity-7398427583853334528-A7oV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFOP-2EBUcYjaSSzqfP2DuWCTOKgWFCIVgU" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
 
 ---
 

@@ -46,7 +46,7 @@ Find more [here](https://2025.ieeeicip.org/wp-content/uploads/sites/679/2025-VIP
 
 ***More details below.***
 
-[Presentation]({{ '/assets/pdf/Team_NeuronX_VIP_Cup_2025.pdf' | relative_url }}){:target="_blank"} · [Code]() · [Paper]()
+<a href="{{ '/assets/pdf/Team_NeuronX_VIP_Cup_2025.pdf' | relative_url }}" target="_blank"><i class="fas fa-file-pdf"></i> Presentation</a> · <a href=""><i class="fab fa-github"></i> Code</a> · <a href=""><i class="fas fa-file-alt"></i> Paper</a>
 
 
 ---
@@ -61,6 +61,7 @@ Find more [here](https://2025.ieeeicip.org/wp-content/uploads/sites/679/2025-VIP
     <div class="caption">Championship award at the IEEE SPS VIP Cup 2025.</div>
   </div>
 </div>
+<a href="https://www.linkedin.com/posts/abrar-zahin-raihan-881612331_ieee-vipcup2025-signalprocessing-activity-7374818582821703680-hK9h?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFOP-2EBUcYjaSSzqfP2DuWCTOKgWFCIVgU" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
 
 ---
 
