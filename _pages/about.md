@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle: >
-  <strong>Junior-Year CSE Undergraduate</strong> &nbsp;·&nbsp; <strong><a href="https://www.buet.ac.bd/" target="_blank">Bangladesh University of Engineering and Technology (BUET)</a></strong><br>
+  <strong>Senior-Year CSE Undergraduate</strong> &nbsp;·&nbsp; <strong><a href="https://www.buet.ac.bd/" target="_blank">Bangladesh University of Engineering and Technology (BUET)</a></strong><br>
   <div style="margin-bottom: 1rem;"></div>
   <code>NLP</code> · <code>Information Retrieval</code> · <code>Multimodal AI</code> · <code>AI Systems</code> · <code>Computer Vision</code> · <code>Machine Learning</code> · <code>Mechanistic Interpretability</code> 
   <div style="margin-bottom: 4rem;"></div>
@@ -29,7 +29,7 @@ latest_posts:
   limit: 3
 ---
 
-I'm a junior-year [Computer Science and Engineering](https://cse.buet.ac.bd/) student at [Bangladesh University of Engineering and Technology (BUET)](https://www.buet.ac.bd/), working at the intersection of **multimodal AI**, **natural language processing**, and **AI systems**.
+I'm a senior-year [Computer Science and Engineering](https://cse.buet.ac.bd/) student at [Bangladesh University of Engineering and Technology (BUET)](https://www.buet.ac.bd/), working at the intersection of **multimodal AI**, **natural language processing**, and **AI systems**.
 
 I am open to PhD opportunities for Fall 2027.
 
